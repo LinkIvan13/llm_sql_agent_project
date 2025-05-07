@@ -1,0 +1,7 @@
+openai
+langchain
+langchain-community
+streamlit
+python-dotenv
+sqlite-utils
+python-telegram-bot>=20.0
